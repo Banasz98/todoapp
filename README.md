@@ -10,3 +10,5 @@ Prosta aplikacja webowa do zarządzania listą zadań.
 - HTML
 - CSS
 - JavaScript
+## CI/CD
+Projekt wykorzystuje GitHub Actions do automatycznego uruchamiania testów.
