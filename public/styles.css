@@ -1,0 +1,8 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+}
+
+li.done {
+    text-decoration: line-through;
+}
